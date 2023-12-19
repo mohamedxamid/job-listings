@@ -1,0 +1,16 @@
+{
+  "name": "job-listings",
+  "version": "1.0.0",
+  "description": "1. search panel tepaga psa va top -px orqali amalga oshirilgan, transform bilan emas\r 2. date listdagi nuqta ::before orqali qilingan",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "json-server --watch database/db.json"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "json-server": "^0.17.4"
+  }
+}

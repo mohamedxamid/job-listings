@@ -1,0 +1,116 @@
+{
+    "jobListings": [
+        {
+            "logo": "img/photosnap.svg",
+            "companyName": "Photosnap",
+            "title": "Senior Frontend Developer",
+            "postedTime": "2023-12-18",
+            "modeJob": "Full Time",
+            "placeOfWork": "USA only",
+            "keywords": [
+                "Frontend", "Senior", "HTML", "CSS", "JavaScript"
+            ],
+            "top": true
+        },
+        {
+            "logo": "img/manage.svg",
+            "companyName": "Manage",
+            "title": "Fullstack Developer",
+            "postedTime": "2023-12-18",
+            "modeJob": "Part Time",
+            "placeOfWork": "Remote",
+            "keywords": [
+                "Fullstack", "Midweight", "Python", "React"
+            ],
+            "top": true
+        },
+        {
+            "logo": "img/account.svg",
+            "companyName": "Account",
+            "title": "Junior Frontend Developer",
+            "postedTime": "2023-12-17",
+            "modeJob": "Part Time",
+            "placeOfWork": "USA only",
+            "keywords": [
+                "Frontend", "Junior", "React", "Sass", "JavaScript"
+            ]
+        },
+        {
+            "logo": "img/my-home.svg",
+            "companyName": "MyHome",
+            "title": "Junior Frontend Developer",
+            "postedTime": "2023-12-14",
+            "modeJob": "Contract",
+            "placeOfWork": "USA only",
+            "keywords": [
+                "Frontend", "Junior", "CSS", "JavaScript"
+            ]
+        },
+        {
+            "logo": "img/loop-studios.svg",
+            "companyName": "Loop Studios",
+            "title": "Software Engineer",
+            "postedTime": "2023-12-12",
+            "modeJob": "Full Time",
+            "placeOfWork": "Worldwide",
+            "keywords": [
+                "Fullstack", "Midweight", "JavaScript", "Sass", "Ruby"
+            ]
+        },
+        {
+            "logo": "img/facelt.svg",
+            "companyName": "FaceIt",
+            "title": "Junior Backend Developer",
+            "postedTime": "2023-12-5",
+            "modeJob": "Full Time",
+            "placeOfWork": "UK only",
+            "keywords": [
+                "Backend", "Junior", "Rub", "RaR"
+            ]
+        },
+        {
+            "logo": "img/shortly.svg",
+            "companyName": "Shortly",
+            "title": "Junior Developer",
+            "postedTime": "2023-12-5",
+            "modeJob": "Full Time",
+            "placeOfWork": "Worldwide",
+            "keywords": [
+                "Frontend", "Junior", "HTML", "Sass", "JavaScript"
+            ]
+        },
+        {
+            "logo": "img/insure.svg",
+            "companyName": "Insure",
+            "title": "Junior Frontend Developer",
+            "postedTime": "2023-12-5",
+            "modeJob": "Full Time",
+            "placeOfWork": "USA only",
+            "keywords": [
+                "Frontend", "Junior", "Vue", "JavaScript", "Sass"
+            ]
+        },
+        {
+            "logo": "img/eyecam-co.svg",
+            "companyName": "Eyecam Co.",
+            "title": "Full Stack Engineer",
+            "postedTime": "2023-11-28",
+            "modeJob": "Full Time",
+            "placeOfWork": "Worldwide",
+            "keywords": [
+                "Fullstack", "Midweight", "JavaScript", "Django", "Python"
+            ]
+        },
+        {
+            "logo": "img/the-air-filter-company.svg",
+            "companyName": "The Air Filter Company",
+            "title": "Front-end Dev",
+            "postedTime": "2023-11-19",
+            "modeJob": "Part Time",
+            "placeOfWork": "Worldwide",
+            "keywords": [
+                "Frontend", "Junior", "React", "Sass", "JavaScript"
+            ]
+        }
+    ]
+}

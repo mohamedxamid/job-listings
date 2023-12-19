@@ -358,6 +358,19 @@ img {
     color: var(--white);
 }
 
+.hide {
+    display: none;
+}
+
+.show {
+    display: block;
+}
+
+.fade {
+    animation-name: fade;
+    animation-duration: 0.5s;
+}
+
 @media only screen and (max-width: 750px) {
     .job-listings-item {
         flex-wrap: wrap;
@@ -394,5 +407,16 @@ img {
 
     .job-listings-addl {
         flex-wrap: wrap;
+    }
+}
+
+@keyframes fade {
+    from {
+        top: 0px;
+        opacity: 0;
+    }
+    to {
+        top: -55px;
+        opacity: 1;
     }
 }
